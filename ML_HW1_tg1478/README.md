@@ -19,6 +19,7 @@ For this assingment I completed the following:
 - Created a decision tree 
 
 __Question 3: Use Sklearn models to predict burden of disease.__
+
 For this assignment I completed the following: 
 
 - Train/test split data and choose hyper-parameter 
@@ -27,6 +28,7 @@ For this assignment I completed the following:
 - Cross validated data using GridSearchCV
 
 __Question 4: Fit a Random Forest to data from Question 3.__
+
 For this assignment I completed the following: 
 
 - Train/test split data and choose hyper-parameter 
